@@ -1,0 +1,9 @@
+<?php
+{
+	succes: true,
+	data:[],
+	message: "Data user not found",
+	code: 204
+}
+
+?>
